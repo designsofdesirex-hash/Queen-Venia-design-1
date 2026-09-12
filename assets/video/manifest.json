@@ -1,0 +1,66 @@
+[
+  {
+    "id": "v1",
+    "type": "video",
+    "src": "assets/video/video1.mp4",
+    "thumb": "assets/video/video1_thumb.webp",
+    "title": "Queen Venia Nyx — Die neue Woche brav starten",
+    "tag": "Video"
+  },
+  {
+    "id": "v2",
+    "type": "video",
+    "src": "assets/video/video2.mp4",
+    "thumb": "assets/video/video2_thumb.webp",
+    "title": "Queen Venia Nyx — Dinner is on you. As always.",
+    "tag": "Video"
+  },
+  {
+    "id": "v3",
+    "type": "video",
+    "src": "assets/video/video3.mp4",
+    "thumb": "assets/video/video3_thumb.webp",
+    "title": "Queen Venia Nyx — Du brauchst es wieder. Mit Ton. Nur in meiner TG Gruppe",
+    "tag": "Video"
+  },
+  {
+    "id": "v4",
+    "type": "video",
+    "src": "assets/video/video4.mp4",
+    "thumb": "assets/video/video4_thumb.webp",
+    "title": "Queen Venia Nyx — Es wird kälter .. ihr wisst, was das bedeutet",
+    "tag": "Video"
+  },
+  {
+    "id": "v5",
+    "type": "video",
+    "src": "assets/video/video5.mp4",
+    "thumb": "assets/video/video5_thumb.webp",
+    "title": "Queen Venia Nyx — Mir steht‘s einfach besser als deiner Frau.",
+    "tag": "Video"
+  },
+  {
+    "id": "v6",
+    "type": "video",
+    "src": "assets/video/video6.mp4",
+    "thumb": "assets/video/video6_thumb.webp",
+    "title": "Queen Venia Nyx — Sockenschnüffler, antreten!",
+    "tag": "Video"
+  },
+  {
+    "id": "v7",
+    "type": "video",
+    "src": "assets/video/video7.mp4",
+    "thumb": "assets/video/video7_thumb.webp",
+    "title": "Queen Venia Nyx — Sound on",
+    "tag": "Video"
+  },
+  {
+    "id": "v8",
+    "type": "video",
+    "src": "assets/video/video8.mp4",
+    "thumb": "assets/video/video8_thumb.webp",
+    "title": "Queen Venia Nyx — Venia Worship Friday My group knows what’s awaiting",
+    "tag": "Video"
+  }
+]
